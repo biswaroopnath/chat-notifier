@@ -5,3 +5,5 @@
 - exe for windows can be downloaded from the output folder
 # For dev
 - install the requirements.txt file
+
+## Special Thanks to Parthib @github.com/Parthib25
